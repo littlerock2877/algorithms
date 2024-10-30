@@ -1,4 +1,4 @@
-package ru.mail.littlerock2877.bruteForce;
+package ru.mail.littlerock2877.stepik.bruteForce;
 
 import java.util.Scanner;
 

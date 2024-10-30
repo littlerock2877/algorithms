@@ -1,4 +1,4 @@
-package ru.mail.littlerock2877.search;
+package ru.mail.littlerock2877.stepik.search;
 
 import java.util.Scanner;
 
